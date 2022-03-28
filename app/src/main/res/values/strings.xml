@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">自动打卡</string>
+    <string name="tip">启动通知</string>
+    <string name="tencent">企业微信</string>
+    <string name="alibaba">钉钉</string>
+</resources>
